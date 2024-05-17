@@ -21,5 +21,10 @@ chmod 755 /usr/local/bin/instalacao_docker.sh
   ```
 instalacao_docker.sh
 ```
+<li>Valide a instalação: </li>
+
+```
+docker run hello-world
+```
 
 </ol>
